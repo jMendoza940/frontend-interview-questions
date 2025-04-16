@@ -2,3 +2,4 @@
 
 Notes and usage details for frontend-interview-questions.
 - link the usage section
+- add a note about the defaults
