@@ -31,3 +31,4 @@
 - docs: add a note about the defaults
 - fix: fix a small wording issue
 - fix: add a note about the defaults
+- docs: link the usage section
