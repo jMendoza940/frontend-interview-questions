@@ -24,3 +24,4 @@ Notes and usage details for frontend-interview-questions.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
